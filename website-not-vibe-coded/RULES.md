@@ -13,6 +13,37 @@ Rules for building any marketing or product website, for a person or an AI. They
 7. **Audit after building, in order:** QA, design audit, SEO audit, copy pass. Fix everything that doesn't reverse an owner decision; list what does.
 8. **Keep internal documents out of the public repository.** Plans, pricing workings, competitor notes, research and audits stay git-ignored.
 
+## 1b. Existing sites: form and substance
+
+The rules apply to every site, new or inherited. What changes on an existing site is the entry point and the line between what is ours to fix and what belongs to the site.
+
+**Entry point.** Skip rules 1 to 3 of section 1. The site is the reference: inherit its typefaces, colours, logo, grid and shape language and work inside them. Start with the audits in section 7 and produce the report below before changing anything.
+
+**Form: always fix, no permission needed.** These never change what the site says or how it's branded.
+- Punctuation and typography: em and en dashes, exclamation marks, emoji, three-fragment stacks, colon-led headlines.
+- Decorative components: eyebrow labels, pills and badges that aren't live status, glows, blobs, glass, cards inside cards, icon-in-a-box grids, captions under photos.
+- Mechanical copy patterns: "not just X, it's Y", "whether you're", "in today's", the hype-word list. Swap the word or restructure the sentence; keep the point the sentence makes.
+- Duplicates: the same call to action twice on a page, the same message in two sections.
+- Hygiene: alt text, heading outline, titles and descriptions, share card, favicon, redirects, cookie banner behaviour, external links, mobile layout.
+- Legal page tells: "last updated", draft notes, placeholders.
+
+**Substance: inherit unless the owner asks.**
+- What the copy says: the claims, features, promises and positioning. A claim that looks overstated is reported, not changed; the owner may have grounds we don't know.
+- The voice, if it's already human. Plain copy with a few dashes gets the dashes fixed, not a rewrite.
+- Brand: typefaces, colours, logo, shape language. A second accent colour is a finding, not a fix.
+- Structure: page order, section order, the site map, what lives on which page.
+- Imagery that exists.
+- Anything that looks deliberate. Ask about it on its own before touching it.
+
+**The grey zone.** Some fixes change form and substance at once: a page that is one centred column, a page built around three duplicate calls to action, a hero that is only a stats row, a claim with no source. Report these with the fix proposed and let the owner pick. For an unsourced claim, suggest the attributed version; never delete it.
+
+**The report, before any change.** Three lists:
+- *Fixing*: form. Done unless told otherwise.
+- *Recommend*: grey zone and taste. The owner decides each one.
+- *Flagged*: substance we won't touch: unsourced claims, stale legal clauses, brand choices that break the colour budget.
+
+Fix in order of cost and effect: copy form first, then components, then hygiene. Show the owner after each layer.
+
 ## 2. Truth rules
 
 A site that overclaims reads as generated, because generated copy overclaims by default.

@@ -7,6 +7,11 @@ description: Rules for planning, writing, designing and building a marketing or 
 
 Load `RULES.md` in this folder and follow it in full. It is the owner's own instructions, learned across a real build, and it wins over default design and copy habits.
 
+## New site or existing site?
+
+- **New site:** follow section 1 of `RULES.md` from the start.
+- **Existing site:** skip to section 1b. The site is the reference; inherit its brand, structure and claims. Run the audits first, report in three lists (Fixing, Recommend, Flagged), fix form without asking, and leave substance alone unless the owner asks.
+
 ## How to apply it
 
 1. **Before anything:** read `RULES.md` section 1 (how to work). Plan first; build only when told; one page first; wait for the references and brand assets; never reverse an owner's choice without asking about that item on its own; a question is not an instruction; commit locally, push only when asked.
