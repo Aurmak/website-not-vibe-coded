@@ -1,5 +1,6 @@
 ---
 name: website-not-vibe-coded
+author: Ahsan Jalil (AURMAK)
 description: Rules for planning, writing, designing and building a marketing or product website so it reads as made by people, not generated. Use whenever the user asks for a website, landing page, marketing site, product site or web copy, or asks to audit, redesign or review one, or mentions "vibe coded", "AI-looking" or "looks generated".
 ---
 

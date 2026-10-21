@@ -4,6 +4,8 @@ A Claude Code skill: rules for planning, writing, designing and building a marke
 
 The rules were learned on a real build and cover how to work with the site owner, what the site may claim, copy voice, visual design, page components, technical hygiene, the audits to run, and the final test.
 
+Written by Ahsan Jalil at [AURMAK](https://aurmak.com), from building [catchvision.co.uk](https://www.catchvision.co.uk).
+
 ## Install
 
 Copy the `website-not-vibe-coded` folder into your skills folder:
